@@ -17,13 +17,15 @@ export default {
     margin: 0;
   }
 
-.male {
-  width: 40px;
-  margin-left: 100px;
+.gender_male {
+  font-size: 35px;
+  /* margin-left: 100px; */
+  color: blue;
 }
 
-.female {
-  width: 30px;
-  margin-left: 100px;
+.gender_female {
+  font-size: 35px;
+    /* margin-left: 100px; */
+    color: palevioletred;
 }
 </style>
